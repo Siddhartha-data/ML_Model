@@ -8,3 +8,8 @@ This repository contains a machine learning model that predicts wine quality bas
 
 ## Instructions
 - Open the `Wine_Quality.ipynb` file for full implementation details.
+
+
+
+## HR Logistic Model
+This repository contains the implementation of a Logistic Regression model for Human Resources (HR) analytics. The model aims to predict employee-related outcomes, such as which employee left or retained the company on historical HR data.
