@@ -15,11 +15,9 @@ This repository contains a machine learning model that predicts wine quality bas
 This repository contains the implementation of a Logistic Regression model for Human Resources (HR) analytics. The model aims to predict employee-related outcomes, such as which employee left or retained the company on historical HR data.
 
 ## Features
-  # Data Preprocessing:
-  Handles missing values, encodes categorical variables, and scales numerical features.
-  # Exploratory Data Analysis (EDA):
-  # Visualizes key patterns and insights.
-  Model Training: Implements Logistic Regression for binary classification tasks.
+- Data Preprocessing: Handles missing values, encodes categorical variables, and scales numerical features.
+- Exploratory Data Analysis (EDA): Visualizes key patterns and insights.
+- Model Training: Implements Logistic Regression for binary classification tasks.
 
 # Iris Flower Classification using SVM
 This repository contains an SVM (Support Vector Machine)-based solution for classifying iris flowers into three species: Setosa, Versicolor, and Virginica. The project uses the classic Iris dataset, which is widely used in machine learning for classification tasks.
