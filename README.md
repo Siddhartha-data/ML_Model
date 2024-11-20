@@ -18,3 +18,14 @@ This repository contains the implementation of a Logistic Regression model for H
 - Data Preprocessing: Handles missing values, encodes categorical variables, and scales numerical features.
 - Exploratory Data Analysis (EDA): Visualizes key patterns and insights.
 - Model Training: Implements Logistic Regression for binary classification tasks.
+
+# Iris Flower Classification using SVM
+This repository contains an SVM (Support Vector Machine)-based solution for classifying iris flowers into three species: Setosa, Versicolor, and Virginica. The project uses the classic Iris dataset, which is widely used in machine learning for classification tasks.
+
+ ## Features
+- Data Preprocessing: Prepares the dataset with feature scaling and train-test splitting.
+Exploratory Data Analysis (EDA): Visualizes relationships between features and class labels.
+Model Training: Implements SVM with both linear and non-linear kernels for classification.
+Hyperparameter Tuning: Optimizes the model using techniques like grid search or random search.
+Model Evaluation: Provides metrics like accuracy, precision, recall, F1-score, and visualizations such as confusion matrices.
+Visualization: Includes decision boundary plots for linear and non-linear kernels.
